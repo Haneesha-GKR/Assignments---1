@@ -1,0 +1,18 @@
+===== RESULTS: EM =====
+1. The detailed results for the above data sets are available in the folder Homework/src/EM_DETAILED_RESULTS
+2. Brief results for the data sets (30 iterations) is summarized below: (The below results are describing the percentage of instances that are correctly classified.)
+
+Dataset                 Base learner     Vanilla     Bagging     Boosting
+Connectionist Bench     Decision stump   53.3654 %   54.3269 %   55.2885 %
+Connectionist Bench     J48              53.3654 %   55.2885 %   50.9615 %
+Connectionist Bench     Perceptron       78.8462 %   84.1346 %   82.6923 %
+
+Waveform Database       Decision stump   33.88   %   34.88   %   33.88   %
+Waveform Database       J48              48.3    %   34.88   %   33.88   %
+Waveform Database       Perceptron       85.76   %   86.38   %   85.82   %
+
+Car Evaluation          Decision stump   70.0231 %   70.0231 %   70.0231 %
+Car Evaluation          J48              93.4028 %   93.3449 %   90.5671 %
+Car Evaluation          Perceptron       79.7454 %   88.1366 %   80.8449 %
+
+-->
